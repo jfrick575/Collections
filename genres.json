@@ -143,5 +143,90 @@
         "coverImageUrl": "https://i.postimg.cc/d36tp9VS/EBR_TVA_WW_ROMANCE.webp"
       }
     ]
+  },
+  {
+    "id": "90fedeec-8e89-43ea-a09e-3c2b3660756e",
+    "title": "Decades",
+    "showAllTab": true,
+    "viewMode": "TABBED_GRID",
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "folders": [
+      {
+        "id": "90bc63b1-2c0e-4b27-af8d-d0c449280f46",
+        "title": "80's",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "focusGifEnabled": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91301",
+            "type": "movie"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/bNYQJCkS/EBR_TVA_WW_1980s.png"
+      },
+      {
+        "id": "05c7ef20-e750-42b2-819c-397b1930db04",
+        "title": "90's",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "focusGifEnabled": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91300",
+            "type": "movie"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/44Q6Xk7t/EBR_TVA_WW_1990s.png"
+      },
+      {
+        "id": "53089031-2ff8-457e-a34f-4228c1c9cd4a",
+        "title": "00's",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "focusGifEnabled": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91302",
+            "type": "movie"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/c1BRdyg3/EBR_TVA_WW_2000s.png"
+      },
+      {
+        "id": "6c12eb3f-8303-4f99-88ae-37b3f27de3c1",
+        "title": "10's",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "focusGifEnabled": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91303",
+            "type": "movie"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/9FXGM8Zp/EBR_TVA_WW_2010s.png"
+      },
+      {
+        "id": "112fbe9e-bda9-4074-8b66-10a2968b86aa",
+        "title": "20's",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "focusGifEnabled": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91304",
+            "type": "movie"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/bY9xqcDt/EBR_TVA_WW_2020s.png"
+      }
+    ]
   }
 ]
