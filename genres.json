@@ -1,0 +1,147 @@
+[
+  {
+    "id": "c90746ad-e967-4481-8546-530c03dc6aa4",
+    "title": "Genres",
+    "showAllTab": true,
+    "viewMode": "TABBED_GRID",
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "folders": [
+      {
+        "id": "871e3773-c1be-4c7c-8685-075b3b39afcc",
+        "title": "Action",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "focusGifEnabled": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91211",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91213",
+            "type": "series"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/D06yHczT/EBR_TVA_WW_ACTION.webp"
+      },
+      {
+        "id": "6500a68d-7120-4df0-bd0c-3f4fde841857",
+        "title": "Thriller",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "focusGifEnabled": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91893",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91894",
+            "type": "series"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/QChdfzjr/EBR_TVA_WW_THRILLER.webp"
+      },
+      {
+        "id": "6cbe3c12-d1b1-45b0-bfa2-31eae64ae186",
+        "title": "Sci-Fi",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "focusGifEnabled": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91220",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91221",
+            "type": "series"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/3NYxtq3T/EBR_TVA_WW_SCIFI.webp"
+      },
+      {
+        "id": "42f35295-0bff-4b5b-ab97-d4462cdb7401",
+        "title": "Horror",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "focusGifEnabled": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91215",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91217",
+            "type": "series"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/vTbZ0KGy/EBR_TVA_WW_HORROR.webp"
+      },
+      {
+        "id": "5216cd43-9234-4bae-805e-7a169c659a61",
+        "title": "Drama",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "focusGifEnabled": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91296",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91297",
+            "type": "series"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/6qc5ghpF/EBR_TVA_WW_DRAMA_Final.webp"
+      },
+      {
+        "id": "ed7c3097-7569-4c34-8938-705adb0fe250",
+        "title": "Comedy",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "focusGifEnabled": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91223",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91224",
+            "type": "series"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/Y0RqZxC5/EBR_TVA_WW_COMEDY.webp"
+      },
+      {
+        "id": "70378e84-47ac-493c-aa6f-5a40092736d5",
+        "title": "Romance",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "focusGifEnabled": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.124151",
+            "type": "movie"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/d36tp9VS/EBR_TVA_WW_ROMANCE.webp"
+      }
+    ]
+  }
+]
