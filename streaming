@@ -1,0 +1,152 @@
+[
+  {
+    "id": "cce28dcd-8f94-4b9f-ad9e-29942a065d19",
+    "title": "Streaming",
+    "showAllTab": true,
+    "viewMode": "TABBED_GRID",
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "folders": [
+      {
+        "id": "04ca4295-2554-4c46-ac1f-e6a7d3be361b",
+        "title": "Netflix",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "focusGifEnabled": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86620",
+            "type": "series"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86628",
+            "type": "movie"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/y8Vr7yYp/EBR_TVA_WW_NETFLIX.png"
+      },
+      {
+        "id": "590a3031-08e1-4e98-b3a9-9d371903f8e8",
+        "title": "New Folder",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "focusGifEnabled": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86626",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86625",
+            "type": "series"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/Hs0hGhH7/EBR_TVA_WW_APPLETV.png"
+      },
+      {
+        "id": "412f92bc-d60b-4741-bf37-1296608478f3",
+        "title": "HBO",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "focusGifEnabled": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.89392",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.89310",
+            "type": "series"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/jd6FVFKF/EBR_TVA_WW_HBOMAX.png"
+      },
+      {
+        "id": "36b35b29-26d1-4bff-851b-794d04e5eaeb",
+        "title": "Hulu",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "focusGifEnabled": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.127955",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.127954",
+            "type": "series"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/65Vmsmwq/EBR_TVA_WW_HULU.png"
+      },
+      {
+        "id": "8f3f9026-877f-497b-906d-11653598bef3",
+        "title": "Paramount",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "focusGifEnabled": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.89366",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.89374",
+            "type": "series"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/L6kbdbRV/EBR_TVA_WW_PARAMOUNTPLUS.png"
+      },
+      {
+        "id": "0501de62-7cfb-45e3-8ff4-437bc72687f8",
+        "title": "Amazon Prime",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "focusGifEnabled": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86755",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86753",
+            "type": "series"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/MK0FkFxn/EBR_TVA_WW_PRIMEVIDEO.png"
+      },
+      {
+        "id": "6a304ac7-ab90-4c0d-a484-c10f2aeb509b",
+        "title": "Disney +",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "focusGifEnabled": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86945",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86946",
+            "type": "series"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/XYVDnk7D/EBR_TVA_WW_DISNEYPLUS.png"
+      }
+    ]
+  }
+]
