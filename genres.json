@@ -228,5 +228,45 @@
         "coverImageUrl": "https://i.postimg.cc/bY9xqcDt/EBR_TVA_WW_2020s.png"
       }
     ]
+  },
+  {
+    "id": "87282830-4351-40f0-8847-52bc3324055e",
+    "title": "IMDB",
+    "showAllTab": true,
+    "viewMode": "TABBED_GRID",
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "folders": [
+      {
+        "id": "e8470c5f-df2a-4e18-adc8-e21b161ee664",
+        "title": "Top Movies",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "focusGifEnabled": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.101881",
+            "type": "movie"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/jqDGwcTW/Imdb_Top_Movies.webp"
+      },
+      {
+        "id": "f17f7cfe-bc6e-475b-a831-c8f06f026993",
+        "title": "Top Shows",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "focusGifEnabled": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.101882",
+            "type": "series"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/y6DwgjK9/Imdb_Top_Shows.webp"
+      }
+    ]
   }
 ]
